@@ -7,8 +7,8 @@ This lifestyle companion desktop application stores and analyzes height, weight,
 * Sleep Monitoring
 * Foot Steps
 # Application Requirements:
--	Windows 7 or Higher
--	A wearable smart device to collect the real-time data
--	Global Positioning System (GPS) module to keep track of the location
--	Pedometer sensor to collect footsteps
--	Minimum 100 Megabytes (MB) of space on the secondary memory i.e HDD, SSD etc
+-	Windows 7 or Higher.
+-	A wearable smart device to collect real-time data.
+-	Global Positioning System (GPS) module to keep track of the location.
+-	Pedometer sensor to collect footsteps.
+-	Minimum 100 Megabytes (MB) of space on the secondary memory i.e. HDD, SSD, etc.
