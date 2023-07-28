@@ -1,5 +1,5 @@
 # Fintess Tracker
-This lifestyle companion desktop application stores and analyzes height, weight, food, workout, and sleep data. This application can analyze datasets to make smart decisions to maintain a healthy lifestyle for individuals. Fitness Tracker has many various features to manage someone’s health. This application can automatically record many activities, making it more user-friendly for users. Fitness Tracker helps someone to record and manage fitness activity, such as –
+This lifestyle companion desktop application stores and analyzes height, weight, food, workout, and sleep data. This application can analyze datasets to make smart decisions to maintain a healthy lifestyle for individuals. Fitness Tracker has various features to manage someone’s health. This application can automatically record many activities, making it more user-friendly for users. Fitness Tracker helps someone to record and manage fitness activity, such as –
 * Running
 * Cycling
 * Swimming
