@@ -11,4 +11,4 @@ This lifestyle companion desktop application stores and analyzes height, weight,
 -	A wearable smart device to collect real-time data.
 -	Global Positioning System (GPS) module to keep track of the location.
 -	Pedometer sensor to collect footsteps.
--	Minimum 100 Megabytes (MB) of space on the secondary memory i.e. HDD, SSD, etc.
+-	Minimum 100 Megabytes (MB) of free space on the secondary storage i.e. HDD, SSD, etc.
